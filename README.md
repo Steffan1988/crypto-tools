@@ -55,3 +55,6 @@ Gebruikte concepten:
 
 Deze twee tools zijn ontwikkeld binnen de module *Programming Fundamentals* van de NOVI Hogeschool bootcamp.
 Het doel van de opdracht was om zelfstandig CLI-tools te bouwen die gebruikmaken van logica, datastructuren en herbruikbare functies.
+
+### English summary:
+This repository contains two simple Python CLI tools: a Caesar cipher encoder/decoder and a random password generator & manager.
